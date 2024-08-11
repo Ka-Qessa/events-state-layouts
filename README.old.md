@@ -1,5 +1,6 @@
 # events-state-layouts
 
+[![Build status](https://ci.appveyor.com/api/projects/status/twc2vdwftuutsdvr?svg=true)](https://ci.appveyor.com/project/Ka-Qessa/events-state-layouts)
 ---
 
 Расположение товаров
